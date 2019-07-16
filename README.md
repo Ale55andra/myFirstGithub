@@ -1,2 +1,4 @@
-# myFirstGithub
-A document scanner that identifies object to be scanned, scans it, and increases the focus/contrast of the image.
+# My First Projects
+ 
+Where I put all of my first attempts at different projects that I work on
+
